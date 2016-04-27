@@ -12,6 +12,7 @@ public class No1 {
         System.out.println("3.Penumlahan");
         System.out.println("4.Pengurangan");
         System.out.println("5.Mensederhanakan");
+        System.out.println("0.Keluar");
         System.out.print("Masukkan Urutan = ");
         n = in.nextInt();
         switch(n){
@@ -52,6 +53,6 @@ public class No1 {
             break;
         }
         }while (n  !=0);
-        System.out.println("Terima kasih sudah mencoba !!!");
+        System.out.println("=> Terima kasih sudah mencoba !!! <=");
     }
 }
