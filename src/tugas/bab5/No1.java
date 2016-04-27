@@ -17,37 +17,37 @@ public class No1 {
         n = in.nextInt();
         switch(n){
             case 1 :
-            System.out.print("masukkan A : ");
+            System.out.print("Masukkan A : ");
             int n1 = in.nextInt();
-            System.out.print("masukkan B : ");
+            System.out.print("Masukkan B : ");
             int n2 = in.nextInt();
             angka.pekalian(n1, n2);
             break;
             case 2 :
-            System.out.print("masukkan A : ");
+            System.out.print("Masukkan A : ");
             n1 = in.nextInt();
-            System.out.print("masukkan B : ");
+            System.out.print("Masukkan B : ");
             n2 = in.nextInt();
             angka.pembagian(n1, n2);
             break;
             case 3 :
-            System.out.print("masukkan A : ");
+            System.out.print("Masukkan A : ");
             n1 = in.nextInt();
-            System.out.print("masukkan B : ");
+            System.out.print("Masukkan B : ");
             n2 = in.nextInt();
             angka.penjumlahan(n1, n2);
             break;
             case 4 :
-            System.out.print("masukkan A : ");
+            System.out.print("Masukkan A : ");
             n1 = in.nextInt();
-            System.out.print("masukkan B : ");
+            System.out.print("Masukkan B : ");
             n2 = in.nextInt();
             angka.pengurangan(n1, n2);
             break;
             case 5 :
-            System.out.print("masukkan Penyebut : ");
+            System.out.print("Masukkan Penyebut : ");
             n1 = in.nextInt();
-            System.out.print("masukkan Pembilang : ");
+            System.out.print("Masukkan Pembilang : ");
             n2 = in.nextInt();
             angka.sederhana(n1, n2);
             break;
