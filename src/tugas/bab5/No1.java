@@ -45,9 +45,9 @@ public class No1 {
             angka.pengurangan(n1, n2);
             break;
             case 5 :
-            System.out.print("masukkan A : ");
+            System.out.print("masukkan Penyebut : ");
             n1 = in.nextInt();
-            System.out.print("masukkan B : ");
+            System.out.print("masukkan Pembilang : ");
             n2 = in.nextInt();
             angka.sederhana(n1, n2);
             break;
