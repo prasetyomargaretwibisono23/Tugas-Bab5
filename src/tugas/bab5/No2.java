@@ -9,9 +9,10 @@ public class No2 {
         do{
         Scanner in = new Scanner(System.in);
         System.out.println("Menu Jaket");
-        System.out.println("1.Jaket kain");
-        System.out.println("2.Jaket Jeans");
-        System.out.println("3.Jaket Kulit");
+        System.out.println("Type Jaket         Harga  ");
+        System.out.println("1.Jaket kain    Rp 100.000");
+        System.out.println("2.Jaket Jeans   Rp 120.000");
+        System.out.println("3.Jaket Kulit   Rp 175.000");
         System.out.println("4.keluar");
         System.out.print("Masukkan pilihan anda = ");
         pilih = in.nextInt();
