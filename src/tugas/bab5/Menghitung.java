@@ -16,11 +16,11 @@ public class Menghitung {
     System.out.println("Hasil pembagian A / B adalah "+hasil);
     }
     public void penjumlahan(int n1,int n2){
-    hasil= n1 * n2;
+    hasil+= n1 * n2;
     System.out.println("Hasil penjumlahan A + B adalah "+hasil);
     }
     public void pengurangan(int n1,int n2){
-    hasil= n1 * n2;
+    hasil+= n1 * n2;
     System.out.println("Hasil pengurangan A - B adalah "+hasil);
     }
     public void sederhana(int n1,int n2){
